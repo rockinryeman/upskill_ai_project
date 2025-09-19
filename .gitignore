@@ -30,4 +30,4 @@ Thumbs.db
 *.csv
 *.xlsx
 *.parquet
-!sample_data.csv
+!sample_data.csv.env
