@@ -1,6 +1,6 @@
-# Data Analysis Project
+# Robin's Upskill AI Project
 
-A sample project demonstrating data analysis patterns using Jupyter notebooks in VS Code.
+A data analysis project demonstrating modern data science patterns using Jupyter notebooks in VS Code, with AI coding assistant guidelines.
 
 ## Setup
 1. Install the Jupyter extension in VS Code
@@ -8,7 +8,7 @@ A sample project demonstrating data analysis patterns using Jupyter notebooks in
 3. Run the notebook cells sequentially
 
 ## Project Structure
-- `Untitled-1.ipynb` - Main analysis notebook
+- `Robin_Test.ipynb` - Main analysis notebook
 - `.github/copilot-instructions.md` - AI coding assistant guidelines
 
 ## Key Features
@@ -18,7 +18,7 @@ A sample project demonstrating data analysis patterns using Jupyter notebooks in
 - Best practices for reproducible data science
 
 ## Usage
-Open the notebook and run cells in order. The notebook demonstrates:
+Open `Robin_Test.ipynb` and run cells in order. The notebook demonstrates:
 1. Library imports with version checking
 2. Synthetic dataset creation
 3. Exploratory data analysis
